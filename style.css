@@ -1,0 +1,31 @@
+.background{
+    background-image: url(images/images\ \(1\).jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+
+}
+
+h2 {
+    text-align: center;
+    padding-top: 32px;
+}
+
+.santa{
+    font-family: 'Pacifiko',  cursive;
+    font-size: 96px;
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.secret{
+    font-family: 'Pacifiko',  cursive;
+    font-size: 96px;
+    color: rgb(3, 171, 3);
+    text-align: center;
+    margin-top: -20px;
+}
+
+
+
